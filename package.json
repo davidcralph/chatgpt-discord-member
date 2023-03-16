@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chatgpt": "^5.1.1",
+    "discord.js": "13",
+    "leekslazylogger": "^4.1.7"
+  }
+}
